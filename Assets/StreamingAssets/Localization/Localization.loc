@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LOCALIZATION>
+	<TEXT Color="#FFC7CEFF">
+		<TEXT_KEY>Localization_Key</TEXT_KEY>
+		<TEXT_VALUE>Localized text</TEXT_VALUE>
+	</TEXT>
+</LOCALIZATION>
